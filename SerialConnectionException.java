@@ -41,6 +41,15 @@ public class SerialConnectionException extends Exception {
     public SerialConnectionException(String str) {
         super(str);
     }
+	
+	
+	
+	
+	
+	
+	
+	
+	
 
     /**
      * Constructs a <code>SerialConnectionException</code>
