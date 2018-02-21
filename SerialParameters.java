@@ -103,6 +103,14 @@ public class SerialParameters {
 	return portName;
     }
 
+	
+	
+	
+	
+	
+	
+	
+	
     /**
     Sets baud rate.
     @param baudRate New baud rate.
