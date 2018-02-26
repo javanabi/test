@@ -27,6 +27,11 @@ public class CAMHttpSessionListener implements HttpSessionListener {
 		event.getSession().setMaxInactiveInterval(Integer.parseInt(sessionTimeout) * 5);
 	}
 
+	
+	
+	
+	
+	
 	@Override
 	public void sessionDestroyed(HttpSessionEvent event) {
 		// TODO Auto-generated method stub
