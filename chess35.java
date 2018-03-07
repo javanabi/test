@@ -6,7 +6,7 @@ import java.awt.event.*;
 import javax.swing.*;
 
 public class chess35 extends java.applet.Applet implements MouseMotionListener
-{
+{asdfasdfasdfasfadsfasdfs
 	// changed class structure to allow globals declared
 	// here to determine what square on the board has
 	// been clicked | 1/24/05
