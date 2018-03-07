@@ -54,7 +54,7 @@ asdfasdfasdfasdfasfasdfsa
 				case 1:
 				case 8:
 				{
-					fileName = temp         Name.substring(0,2) + fileExt;
+					fileName = temp         Name.substring(0,2) + fileExt              ;
 					pieces[counter].mypic = getImage(getCodeBase(), fileName);
 					pieces[counter].name = "Rook";
 					break;
