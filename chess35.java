@@ -14,14 +14,7 @@ public class chess35 extends java.applet.Applet implements MouseMotionListener
 	{           //about the pieces
 		int IDNum;
 		int row;		//int row;
-		int column;		//int column;
-		int xposition;
-		int yposition;
-		Image mypic;	//Image mypic
-		boolean visible;//boolean visible	//counts as taken
-		boolean firstmove;
-		String color;	//String color;
-		String name;	//String name;
+		 String name;
 	};
 
 	//piece 0 at 0,0 is black rook, piece 31 at 7,7 is white rook
