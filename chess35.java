@@ -24,15 +24,7 @@ public class chess35 extends java.applet.Applet implements MouseMotionListener
 	// globals
 	public static int ChessBoard[][] = new int [8][8];
 	static int counter = 0;
-	boolean ok = false;		//this is for seeing if its ok to move
-	int pieceChosen = 0;	//this identifies which piece to move
-	int numclicks = 0;
-	int oldx;
-	int oldy;
-	int squares[][] = new int [12][12];
-	boolean checked;		// this is used for the JOptionPane message "check"
-	int whichKing;			// this is used to reduce the amount of code for BishopCheck
-	int whos_turn;			// used to alternate turns
+	 	// used to alternate turns
 	boolean promotion;		// used to promote pawns
 
 	public void GetFileAndName(int rowIndex, int colIndex)
