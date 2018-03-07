@@ -49,7 +49,7 @@ public class chess35 extends java.applet.Applet implements MouseMotionListener
 		String whiteName = "wrwnwbwqwk";
 		String tempName = "";
 		String fileExt = ".gif";
-
+asdfasdfasdfasdfasfasdfsa
 		if (rowIndex == 1)
 			tempName = blackName;
 		else if (rowIndex == 8)
